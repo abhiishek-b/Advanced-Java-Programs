@@ -36,3 +36,13 @@ Output for 3B_3:-ReverseStringDemo-https://github.com/abhiishek-b/Advanced-Java-
 Output for 3B_4:-PalindromeChecker-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-18%20000258.png 
 
 Output for 3B_5:-WhitespaceRemover-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-18%20000439.png
+
+Output for 3C_1:-CapitalizeWords-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3c.String%20Exercise/Screenshot%202025-05-18%20001645.png 
+
+Output for 3C_2:-TruncateString-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3c.String%20Exercise/Screenshot%202025-05-18%20001823.png
+
+Output for 3C_3:-NumericCheck-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3c.String%20Exercise/Screenshot%202025-05-18%20002012.png
+
+Output for 3C_4:-RandomStringGenerator-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3c.String%20Exercise/Screenshot%202025-05-18%20002123.png
+
+Output for 3C_5:-WordCounter-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3c.String%20Exercise/Screenshot%202025-05-18%20002241.png
