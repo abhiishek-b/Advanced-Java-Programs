@@ -26,3 +26,13 @@ Output for 2A:-StringOperationsDemo-https://github.com/abhiishek-b/Advanced-Java
 Output for 2B:-StringBufferVsStringBuilderPerformance-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/StringBuffer%20and%20StringBuilder/Screenshot%202025-05-17%20234518.png
 
 Output for 3A:-StringOperationsDemo3a-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/stringhandlingfunction/Screenshot%202025-05-17%20234925.png
+
+Output for 3B_1:-NullOrWhitespaceCheck-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-17%20235540.png
+
+Output for 3B_2:-SubstringCounter-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-17%20235855.png 
+
+Output for 3B_3:-ReverseStringDemo-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-18%20000008.png 
+
+Output for 3B_4:-PalindromeChecker-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-18%20000258.png 
+
+Output for 3B_5:-WhitespaceRemover-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/3b.String%20Exercise/Screenshot%202025-05-18%20000439.png
