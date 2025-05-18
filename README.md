@@ -76,3 +76,11 @@ output for 8B:-update-https://github.com/abhiishek-b/Advanced-Java-Programs/blob
 output for 8c-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8c.JDBC/8c_abhi.png
 
 Output for 8d-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8d.JDBCproject/8d_abhi.png
+
+output for 9A:-delete-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/delete.jpeg
+
+output for 9B:-query-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/query.jpeg
+
+Output for 9c-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/9c.JDBCproject/9c_abhi.png
+
+Output for 9d-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/9d.JDBCproject/9d_abhi.png
