@@ -58,3 +58,9 @@ Output for 5A:-CountryListDemo-https://github.com/abhiishek-b/Advanced-Java-Prog
 Output for 5B:-ColorTabbedPaneDemo-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/5b.SwingProgram/Screenshot%202025-05-18%20010101.png
 
 Output for 5C:-CountryCapitalList-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/5c.SwingProgram/Screenshot%202025-05-18%20010435.png
+
+output for 6A:-factorial-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/6a%2C6c-factorial%20and%20prime/factorial.jpeg 
+
+output for 6B:-Cookie-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/6b.servletprogram/ccount_abhi.png
+
+output for 6C:-prime-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/6a%2C6c-factorial%20and%20prime/prime.jpeg
