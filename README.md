@@ -24,3 +24,5 @@ Ouput for 1C_5:-LinkedListSwapElements-https://github.com/abhiishek-b/Advanced-J
 Output for 2A:-StringOperationsDemo-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/stringoperations/Screenshot%202025-05-17%20234124.png
 
 Output for 2B:-StringBufferVsStringBuilderPerformance-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/StringBuffer%20and%20StringBuilder/Screenshot%202025-05-17%20234518.png
+
+Output for 3A:-StringOperationsDemo3a-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/stringhandlingfunction/Screenshot%202025-05-17%20234925.png
