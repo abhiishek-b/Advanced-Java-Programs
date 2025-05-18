@@ -64,3 +64,7 @@ output for 6A:-factorial-https://github.com/abhiishek-b/Advanced-Java-Programs/b
 output for 6B:-Cookie-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/6b.servletprogram/ccount_abhi.png
 
 output for 6C:-prime-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/6a%2C6c-factorial%20and%20prime/prime.jpeg
+
+output for 7A:-Session-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/7a%2C7b-Session%20and%20Cookie%20Management/abhi_session.png 
+
+output for 7B:-cookiemanagemnet-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/7a%2C7b-Session%20and%20Cookie%20Management/abhi%20(1).png
