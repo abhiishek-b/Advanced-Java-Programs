@@ -20,3 +20,5 @@ Ouput for 1C_3:-LinkedListOfferLast-https://github.com/abhiishek-b/Advanced-Java
 Ouput for 1C_4:-LinkedListElementPositions-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/LinkedList/Screenshot%202025-05-17%20225737.png 
 
 Ouput for 1C_5:-LinkedListSwapElements-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/LinkedList/Screenshot%202025-05-17%20225925.png
+
+Output for 2A:-StringOperationsDemo-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/stringoperations/Screenshot%202025-05-17%20234124.png
