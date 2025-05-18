@@ -68,3 +68,7 @@ output for 6C:-prime-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/
 output for 7A:-Session-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/7a%2C7b-Session%20and%20Cookie%20Management/abhi_session.png 
 
 output for 7B:-cookiemanagemnet-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/7a%2C7b-Session%20and%20Cookie%20Management/abhi%20(1).png
+
+output for 8A:-select and insert-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/select%20and%20insert.jpeg 
+
+output for 8B:-update-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/insert.jpeg
