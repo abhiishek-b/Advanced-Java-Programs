@@ -69,17 +69,17 @@ output for 7A:-Session-https://github.com/abhiishek-b/Advanced-Java-Programs/blo
 
 output for 7B:-cookiemanagemnet-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/7a%2C7b-Session%20and%20Cookie%20Management/abhi%20(1).png
 
-output for 8A:-select and insert-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/select%20and%20insert.jpeg 
+output for 8a-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprgms/select%20and%20insert.jpeg 
 
-output for 8B:-update-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/insert.jpeg
+output for 8b-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprgms/update.jpeg
 
 output for 8c-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8c.JDBC/8c_abhi.png
 
 Output for 8d-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8d.JDBCproject/8d_abhi.png
 
-output for 9A:-delete-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/delete.jpeg
+output for 9a-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprgms/delete%20(2).jpeg
 
-output for 9B:-query-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBC/query.jpeg
+output for 9b-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/8a%2C8b%2C9a%2C9b-JDBCprgms/query.jpeg
 
 Output for 9c-https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/9c.JDBCproject/9c_abhi.png
 
