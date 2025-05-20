@@ -88,6 +88,7 @@ Output for StringOperationsDemo3a.java - https://github.com/abhiishek-b/Advanced
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3b. String Exercise progams
+
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
 
 Output for NullOrWhitespaceCheck.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-17%20235540.png
@@ -111,6 +112,7 @@ Output for WhitespaceRemover.java https://github.com/abhiishek-b/Advanced-Java-P
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3c. String Exercise progams
+
 Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined functioncapitalizeWords()
 
  Output for CapitalizeWords.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-18%20001645.png
@@ -236,13 +238,13 @@ Output for JDBC_to_update_file - https://github.com/abhiishek-b/Advanced-Java-Pr
 
 9a. Read all the existing records from the table coffee which is from the database test and delete an existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_delte - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9a.DatabaseTest%20_and_Delete/delete%20(2).jpeg
+Ouput for MySql_delte - Ouput for MySql_delte - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9a.DatabaseTest%20_and_Delete/Screenshot%202025-05-20%20210102.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 9b. Read all the existing records from the table coffee which is from the database test and query coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
 
-Ouput for MySql_Query - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9b.DatabaseTest%20_and_Query/query.jpeg
+Ouput for MySql_Query - Ouput for MySql_Query - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp9%20-%20Database_test%20_and_Delete%20%2C%20Query%7C%7CJDBC%20project%20using%20JSP/9b.DatabaseTest%20_and_Query/Screenshot%202025-05-20%20210126.png
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
