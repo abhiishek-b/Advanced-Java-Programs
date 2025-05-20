@@ -30,23 +30,23 @@ Output for ColorRemoveByIndex.java - https://github.com/abhiishek-b/Advanced-Jav
 1c. Linked List Programs
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
 
-Output for LinkedListIteratorExample.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225226.png
+Output for LinkedListIteratorExample.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1c.LinkedList_Programs/Screenshot%202025-05-17%20225226.png
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
 
-Output for LinkedListReverseIteration.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20222414.png
+Output for LinkedListReverseIteration.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1c.LinkedList_Programs/Screenshot%202025-05-17%20225407.png
 
 3. Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
 
-Output for LinkedListOfferLast.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20223026.png
+Output for LinkedListOfferLast.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1c.LinkedList_Programs/Screenshot%202025-05-17%20225540.png
 
 4. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
 
-Output for LinkedListElementPositions.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20223312.png
+Output for LinkedListElementPositions.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1c.LinkedList_Programs/Screenshot%202025-05-17%20225737.png
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
 
-Output for LinkedListSwapElements.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225925.png
+Output for LinkedListSwapElements.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1c.LinkedList_Programs/Screenshot%202025-05-17%20225925.png
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
