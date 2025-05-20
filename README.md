@@ -7,7 +7,7 @@ Output for ListOperations.java - https://github.com/abhiishek-b/Advanced-Java-Pr
 1b. Array List programs
 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
 
-Output for searchcolor.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20221836.png
+Output for searchcolor.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20221836%20-%20Copy.png
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList
 
@@ -23,7 +23,7 @@ Output for ColorSubList.java - https://github.com/abhiishek-b/Advanced-Java-Prog
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
 
-Output for ColorRemoveByIndex.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20223539.png
+Output for ColorRemoveByIndex.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20223539.png
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,15 +34,15 @@ Output for LinkedListIteratorExample.java - https://github.com/abhiishek-b/Advan
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
 
-Output for LinkedListReverseIteration.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225407.png 
+Output for LinkedListReverseIteration.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20222414.png
 
 3. Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
 
-Output for LinkedListOfferLast.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225540.png 
+Output for LinkedListOfferLast.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20223026.png
 
 4. Write a Java program to display elements and their positions in a linked list ( using l_listobj.get(p) )
 
-Output for LinkedListElementPositions.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225737.png 
+Output for LinkedListElementPositions.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/1b.ArrayList_Programs/Screenshot%202025-05-17%20223312.png
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))
 
