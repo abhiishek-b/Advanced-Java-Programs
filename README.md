@@ -49,21 +49,21 @@ Output for LinkedListElementPositions.java - https://github.com/abhiishek-b/Adva
 
 Output for LinkedListSwapElements.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp1-ListInterfaces/Screenshot%202025-05-17%20225925.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2 a. Develop a java program for performing various string operations with different string
 handling functions directed as follows
 String Creation and Basic Operations, Length and Character Access, String Comparison, String Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and startsWith() and endsWith()
 
-Output for StringOperationsDemo.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/2a.StringOperations/Screenshot%202025-05-17%20234124.png
+Output for StringOperationsDemo.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp2-StringOperations/Screenshot%202025-05-17%20234124.png 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
-Output for StringBufferVsStringBuilderPerformance.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/2b.StringBuffer_and_StringBuilder/Screenshot%202025-05-17%20234518.png
+Output for StringBufferVsStringBuilderPerformance.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp2-StringOperations/Screenshot%202025-05-17%20234518.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3a. Develop a java program for performing various string operations with different string
 handling functions directed as follows:
@@ -71,7 +71,7 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 
 Output for StringOperationsDemo3a.java - https://github.com/abhiishek-b/Advanced-Java-Programs/blob/main/Exp3%20-%20StringHandling_and_StringExercise/Screenshot%202025-05-17%20234925.png
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3b. String Exercise progams
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
